@@ -1,0 +1,11 @@
+target/
+.dist/
+*.db
+*.db.mv.db
+*.trace.db
+.classpath
+.project
+.settings/
+bin/
+*.iml
+.idea/
